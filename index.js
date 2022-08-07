@@ -9,7 +9,7 @@
 	@ Ferdi
 	@ DikaArdnt [author]
 	@ Mhankbarbar
-	@ Nurutomo
+	@ Darkseid
 	@ Rashid
 	@ ZeeoneOfc
 	@ Penyedia Module
